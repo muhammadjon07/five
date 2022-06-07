@@ -1,0 +1,65 @@
+.Banner1{
+    background-image: url(./Img//left-banner-image.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+.banner2{
+    background-image: url(./Img//baner-right-image-01.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+.banner3{
+    background-image: url(./Img//baner-right-image-02.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+.banner4{
+    background-image: url(./Img//baner-right-image-03.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+.banner5{
+    background-image: url(./Img//baner-right-image-04.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+.banner6{
+    background-image: url(./Img/about-left-image.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+.banner7{
+    background-image: url(./Img/about-left-image.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+.banner8{
+    background-image: url(./Img/about-left-image.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+.banner9{
+    background-image: url(./Img/about-left-image.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+.banner10{
+    background-image: url(./Img//about-left-image.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+
+
+/* explore */
+
+.explore4 {
+    background-image: url(./Img//explore-image-02.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+
+.explore3 {
+    background-image: url(./Img//explore-image-01.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+}
